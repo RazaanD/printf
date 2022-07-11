@@ -29,4 +29,5 @@ int rangeofInt(int n);
 int op_d(va_list d);
 int op_i(va_list n);
 int powten(int n);
+int print_binary(va_list list);
 #endif
